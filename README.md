@@ -1,0 +1,1 @@
+# seo_template_generator.py
